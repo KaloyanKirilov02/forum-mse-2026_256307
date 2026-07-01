@@ -1,5 +1,4 @@
 # forum-mse-2026_256307
-# Forum System
 
 A modern web forum developed as a university project using **Spring Boot** and **React**.
 
